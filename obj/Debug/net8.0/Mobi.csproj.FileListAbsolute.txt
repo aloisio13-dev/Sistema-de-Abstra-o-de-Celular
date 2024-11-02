@@ -1,0 +1,4 @@
+C:\Users\NOTE ALOISIO\OneDrive\Documentos\Dotnet\Mobi\obj\Debug\net8.0\Mobi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE ALOISIO\OneDrive\Documentos\Dotnet\Mobi\obj\Debug\net8.0\Mobi.AssemblyInfoInputs.cache
+C:\Users\NOTE ALOISIO\OneDrive\Documentos\Dotnet\Mobi\obj\Debug\net8.0\Mobi.AssemblyInfo.cs
+C:\Users\NOTE ALOISIO\OneDrive\Documentos\Dotnet\Mobi\obj\Debug\net8.0\Mobi.csproj.CoreCompileInputs.cache
